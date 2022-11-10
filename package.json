@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpg-bot",
+  "version": "1.0.0",
+  "description": "A RPG Bot for Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricci1/discord-rpg-bot.git"
+  },
+  "author": "Christian Ricci & Andrew Tissi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cricci1/discord-rpg-bot/issues"
+  },
+  "homepage": "https://github.com/cricci1/discord-rpg-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "mongoose": "^6.7.2"
+  }
+}
